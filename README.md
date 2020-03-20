@@ -1,2 +1,2 @@
 # sales-forecasting
-Example of daily sales forecasting using LSTM
+Sales Forecastin file serves as an example of daily sales forecasting using LSTM
