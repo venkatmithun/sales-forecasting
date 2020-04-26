@@ -37,6 +37,10 @@ The packages required in Google colab can be installed using
 ```
 type this in any code block and execute. 
 
+# Data exploration and analysis
+
+The file DM-project-TableauVisualization is be accessed via tableau, you need to have latest Tableau-2020.1.2 version to run
+
 # Code 
 The main notebooks that are there in the code are 
 1) Association rules.ipynb
