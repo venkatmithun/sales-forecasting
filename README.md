@@ -4,6 +4,8 @@ The project is implemented in Python.
 
 The project will run in Google colab. 
 
+*Data is not available for public*
+
 # Setting up project in google colab
 
 The data can be uploaded using the upload button present in the left page menu navigator.
