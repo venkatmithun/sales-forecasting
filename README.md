@@ -1,4 +1,4 @@
-# Costco Sales-Forecasting
+# Sales-Forecasting
 
 The project is implemented in Python.
 
